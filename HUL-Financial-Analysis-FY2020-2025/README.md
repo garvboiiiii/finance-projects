@@ -1,3 +1,7 @@
+![Dashboard Preview]
+(dashboard-screenshot.png)
+
+
 # Hindustan Unilever Financial Analysis (FY2020–FY2025)
 
 ## Overview
